@@ -1,6 +1,5 @@
-# library
+# 環境構築/実行
 
-## Project setup
 ```
 npm install
 ```
@@ -10,15 +9,15 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### vue-router
+npm install vue-router
 
-### Lints and fixes files
-```
-npm run lint
-```
+https://router.vuejs.org/ja/installation.html
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# 参考
+https://cr-vue.mio3io.com/guide/chapter9.html#s48-%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAspa%E6%A7%8B%E9%80%A0
+
+https://note.com/yota7/n/n7e5b7ba7258f#FWguh
+
+
